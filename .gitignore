@@ -1,0 +1,4 @@
+src/raw
+cache/tei
+cache/*
+log/OSIRIS.log
